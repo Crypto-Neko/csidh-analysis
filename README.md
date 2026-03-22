@@ -1,5 +1,9 @@
 # CSIDH Analysis
 
+# NOTE: Migration from GitHub
+
+All active development has been moved to Forgejo. Please check for updates and submit all issues, pull requests, etc. to this repo: https://git.keimai.space/algebraity/csidh-analysis
+
 ## Overview
 
 This repository provides implementations and analysis of the CSIDH algorithm. CSIDH (short for Commutative Supersingular Isogeny Diffie-Hellman) is a cryptographic protocol designed for post-quantum key exchange, leveraging the mathematical structure of isogeny graphs of supersingular elliptic curves. The repository contains both a standard implementation of CSIDH and a constant-time variant designed to mitigate certain attack vectors.
